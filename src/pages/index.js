@@ -12,7 +12,7 @@ const IndexPage = () => (
       2013년 시작한 (주)용트림이 <br />
       2019년 지금, 애플트리(ApplTree.io)로 새롭게 단장합니다.
     </p>
-    <a href="https://appltree.io">애플트리 홈페이지 이동</a>
+    <a href="https://appltree.io">애플트리 홈페이지로 이동</a>
   </Layout>
 );
 
