@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `용트림`,
-    description: `용트림 홈펭지`
+    description: `용트림 홈페이지`
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
