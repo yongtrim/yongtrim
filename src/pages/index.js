@@ -14,7 +14,7 @@ const IndexPage = () => (
     </p>
     <a href="https://appltree.io">애플트리 홈페이지로 이동</a>
 
-    <a href="celebrush://">셀럽크러쉬</a>
+    <a href="celebcrush://">셀럽크러쉬</a>
   </Layout>
 );
 
